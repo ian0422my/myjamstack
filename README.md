@@ -1,7 +1,4 @@
-[README.md](https://github.com/ian0422my/myjamstack/files/6990604/README.md)
-# myjamstack
-
-# Welcome to StackEdit!
+# Welcome to StackEdit! (this is a test MD copied from stackedit(https://stackedit.io/app#))
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
